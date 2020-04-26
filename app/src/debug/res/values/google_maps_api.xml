@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=68:CF:B8:1B:65:4C:FC:1E:42:24:46:4B:D7:21:E1:07:C4:F3:9F:B1%3Bcom.example.dasgram
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.dasgram
+
+    SHA-1 certificate fingerprint:
+    68:CF:B8:1B:65:4C:FC:1E:42:24:46:4B:D7:21:E1:07:C4:F3:9F:B1
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAJydNucnM4OzuX59c2pxZzCLiyYv_RY3I</string>
+</resources>

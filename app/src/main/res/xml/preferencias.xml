@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        android:key="nombrePref"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/nombreUsuario"
+        android:selectable="false"
+        android:icon="@drawable/ic_account"
+        android:summary="iker"/>
+
+    <PreferenceCategory>
+
+        <SwitchPreference
+            android:key="switchMusic"
+            android:title="@string/musica"
+            android:icon="@drawable/ic_music"
+            />
+        <ListPreference
+            android:defaultValue="1"
+            android:key="listMusic"
+            android:icon="@drawable/ic_library"
+            android:title="@string/cancion"
+            android:enabled="false"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>

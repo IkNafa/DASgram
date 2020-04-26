@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DASgram</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+
+    <string name="msgWidgetLike">A %s le ha gustado una foto de %s</string>
+    <string name="msgLike">A %s le ha gustado tu foto</string>
+    <string name="msgSubir">%s ha subido una foto</string>
+
+    <string name="nombreUsuario">Nombre de usuario: </string>
+    <string name="localizacion">Localización: </string>
+    <string name="establecerLoc">Establecer localización</string>
+    <string name="publicar">PUBLICAR</string>
+    <string name="autor">Autor: </string>
+    <string name="pass">Contraseña: </string>
+    <string name="iniciarSesion">Iniciar sesión</string>
+    <string name="googlelogin">Iniciar sesión con Google</string>
+    <string name="nombreCompleto">Nombre completo:</string>
+    <string name="email">Email:</string>
+    <string name="repPass">Repetir contraseña:</string>
+    <string name="terminos">He leido y acepto los terminos y condiciones</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="infoFoto">Información foto</string>
+    <string name="usuarioyPassIncorrecto">Usuario y/o contraseña incorrectos</string>
+    <string name="error">Ha ocurrido un error</string>
+    <string name="yaExiste">El nombre de usuario ya existe</string>
+    <string name="nuevapublicacion">Nueva Publicación</string>
+
+    <string name="preferencias">PREFERENCIAS</string>
+    <string name="musica">Musica</string>
+    <string name="cancion">Canción</string>
+    <string name="cerrarsesion">Cerrar sesión</string>
+
+    <string name="salir">SALIR</string>
+    <string name="msgSalir">¿Estas seguro que quieres salir?</string>
+</resources>

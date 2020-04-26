@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474545768887",
+    "firebase_url": "https://dasgram-274315.firebaseio.com",
+    "project_id": "dasgram-274315",
+    "storage_bucket": "dasgram-274315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474545768887:android:05617c010c83706f8e0032",
+        "android_client_info": {
+          "package_name": "com.example.dasgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474545768887-hq774eulq1qmk4k5e8l4pa596d3dd9pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dasgram",
+            "certificate_hash": "68cfb81b654cfc1e4224464bd721e107c4f39fb1"
+          }
+        },
+        {
+          "client_id": "474545768887-onudef65qkfovgj17a800852lljcj7n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9NDmlKxs2oQ4IOFeXGdLI6XXg-ddZ9w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474545768887-onudef65qkfovgj17a800852lljcj7n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

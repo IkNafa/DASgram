@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DASgram</string>
+    <string name="msgWidgetLike">%s liked a %s photo</string>
+    <string name="msgLike">%s liked your photo</string>
+    <string name="nombreUsuario">"Username: "</string>
+    <string name="localizacion">"Location: "</string>
+    <string name="establecerLoc">Set location</string>
+    <string name="autor">"Author: "</string>
+    <string name="pass">"Password: "</string>
+    <string name="iniciarSesion">Log in</string>
+    <string name="googlelogin">Log in with Google</string>
+    <string name="nombreCompleto">"Real name: "</string>
+    <string name="email">"Email: "</string>
+    <string name="repPass">"Repeat password: "</string>
+    <string name="terminos">I have read and i accept the terms and the conditions</string>
+    <string name="aceptar">Accept</string>
+    <string name="infoFoto">Photo\'s information</string>
+    <string name="usuarioyPassIncorrecto">User or password incorrect</string>
+    <string name="error">It has occurred an error</string>
+    <string name="msgSubir">%s has upload a photo</string>
+    <string name="cerrarsesion">Log out</string>
+    <string name="yaExiste">Username already exists</string>
+    <string name="preferencias">PREFERENCES</string>
+    <string name="musica">Music</string>
+    <string name="cancion">Song</string>
+    <string name="nuevapublicacion">New publication</string>
+    <string name="publicar">PUBLISH</string>
+</resources>
